@@ -1,7 +1,7 @@
 ## 自己紹介
 
 #### 長野県出身の24歳男性です。<br>
-#### 4年間美容師として仕事をしていました。
+#### 4年間美容師として仕事をしていました。<br>
 <!--
 **siyo0715/siyo0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
