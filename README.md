@@ -19,6 +19,8 @@
  |      2017(4月)-202 |              美容室勤務(長野県)          |
  |2021(9月)-2021(12月)|DMM WEB CAMP COMMIT専門技術コース受講(新宿校)|
  
+ --------------------------------------------------------------------------
+ 
 <!--
 **siyo0715/siyo0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
