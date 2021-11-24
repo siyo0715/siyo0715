@@ -2,8 +2,8 @@
  <dl>
   <dt>1.出身・年齢・性別</dt>
    <dd>長野県・24歳・男性</dd>
-  <dt>現在</dt>
-   <dd>2.9月1日からDMM WEB CAMP転職活動中</dd>
+  <dt>2.現在</dt>
+   <dd>9月1日からDMM WEB CAMP転職活動中</dd>
   <dt>3.希望職種</dt>
    <dd>Web系エンジニア</dd>
   <dt>4.連絡用メールアドレス</dt>
