@@ -2,7 +2,6 @@
  <dl>
   <dt>出身</dt>
    <dd>長野県</dd>
- -------------------------------------------
   <dt>年齢</dt>
    <dd>24歳</dd>
   <dt>性別</dt>
@@ -14,6 +13,8 @@
   <dt>連絡用メールアドレス</dt>
    <dd>hms0175km@gmail.com</dd>
 </dl>
+
+--------------------------------------------------------------------------
  
 <!--
 **siyo0715/siyo0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
