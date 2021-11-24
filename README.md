@@ -15,7 +15,7 @@
 </dl>
 
 --------------------------------------------------------------------------
-##　📄　経歴
+## 📄 経歴
  
 <!--
 **siyo0715/siyo0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
