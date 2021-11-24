@@ -1,12 +1,12 @@
 ## 👤 自己紹介
  <dl>
-  <dt>出身・年齢・性別</dt>
+  <dt>1.出身・年齢・性別</dt>
    <dd>長野県・24歳・男性</dd>
   <dt>現在</dt>
-   <dd>9月1日からDMM WEB CAMP転職活動中</dd>
-  <dt>希望職種</dt>
+   <dd>2.9月1日からDMM WEB CAMP転職活動中</dd>
+  <dt>3.希望職種</dt>
    <dd>Web系エンジニア</dd>
-  <dt>連絡用メールアドレス</dt>
+  <dt>4.連絡用メールアドレス</dt>
    <dd>hms0175km@gmail.com</dd>
 </dl>
 
