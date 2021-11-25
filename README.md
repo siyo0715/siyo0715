@@ -61,8 +61,8 @@
  ## 🍎成果物
  <dl>
   <dt>HairSkill</dt>
-   <dd>・ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/hairskill"　target="_blank">hms0175km@gmail.com</a>    </dd>
-   <dd>・アプリケーションサイト ： <a href="http://hairskill1.com"　target="_blank">hms0175km@gmail.com</a></dd>
+   <dd>・ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/hairskill"　target="_blank">https://github.com/siyo0715/hairskill</a></dd>
+   <dd>・アプリケーションサイト ： <a href="http://hairskill1.com"　target="_blank">http://hairskill1.com</a></dd>
  </dl>
  
 <!--
