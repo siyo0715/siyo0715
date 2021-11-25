@@ -7,7 +7,7 @@
   <dt>3.希望職種</dt>
    <dd>Web系エンジニア</dd>
   <dt>4.連絡用メールアドレス</dt>
- <dd>hms0175km@gmail.com</dd>
+ <dd>Gmail ： <a href="https://mail.google.com/"　target="_blank">hms0175km@gmail.com</a></dd>
 </dl>
 
 --------------------------------------------------------------------------
