@@ -6,7 +6,9 @@
    <dd>9月1日からDMM WEB CAMP受講中</dd>
   <dt>3.希望職種</dt>
    <dd>Web系エンジニア</dd>
-  <dt>4.連絡用メールアドレス</dt>
+  <dt>希望勤務地</dt>
+   <dd>東京都</dd>
+  <dt>5.連絡用メールアドレス</dt>
  <dd>Gmail ： <a href="https://mail.google.com/"　target="_blank">hms0175km@gmail.com</a></dd>
 </dl>
 
