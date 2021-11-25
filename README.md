@@ -8,7 +8,7 @@
    <dd>Web系エンジニア</dd>
   <dt>4.連絡用メールアドレス</dt>
    <dd>
-   [hms0175km@gmail.com] (https://mail.google.com/mail/u/0/#inbox?compose=new)
+    [hms0175km@gmail.com][https://mail.google.com/mail/u/0/#inbox?compose=new]
   </dd>
 </dl>
 
