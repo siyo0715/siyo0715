@@ -5,7 +5,7 @@
 |2| 📄経歴|これまでの経歴
 |3| ✏️資格|取得・合格した資格|
  |4|💻スキル|主に学習していること|
- |5|🍎成果物|成果物|
+ |5|🍎成果物|成果物の紹介|
 
 --------------------------------------------------------------------------
 ## 👤 自己紹介
@@ -56,11 +56,11 @@
    <li>AWS</li>
   </ul>
  --------------------------------------------------------------------------
- ## 成果物
+ ## 🍎成果物
  <dl>
-  ## <dt>HairSkill</dt>
-   <dd>ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/hairskill"　target="_blank">hms0175km@gmail.com</a>    </dd>
-   <dd>アプリケーションサイト ： <a href="http://hairskill1.com"　target="_blank">hms0175km@gmail.com</a></dd>
+  <dt>HairSkill</dt>
+   <dd>・ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/hairskill"　target="_blank">hms0175km@gmail.com</a>    </dd>
+   <dd>・アプリケーションサイト ： <a href="http://hairskill1.com"　target="_blank">hms0175km@gmail.com</a></dd>
  </dl>
  
 <!--
