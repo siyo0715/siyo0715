@@ -50,6 +50,7 @@
    <li>Ruby</li>
    <li>Ruby on Rails</li>
    <li>JavaScript</li>
+   <li>jQuery</li>
    <li>Vue.js</li>
    <li>AWS</li>
   </ul>
