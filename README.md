@@ -54,7 +54,6 @@
    <li>AWS</li>
    <li>JavaScript</li>
    <li>jQuery</li>
-   独学⬇︎
    <li>Nuxt.js</li>
    <li>Vue.js</li>
   </ul>
