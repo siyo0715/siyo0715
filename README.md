@@ -61,6 +61,7 @@
   
   #### その他
    <ul>
+     <li>Git</li>
      <li>GitHub</li>
      <li>SourceTree</li>
    </ul>
