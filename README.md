@@ -79,7 +79,7 @@
  ## ✨Pickup
  <dl>
  <dd>
-  リオリポジトリ ： <a href="https://github.com/siyo0715/Nuxt.js_practice6"　target="_blank">finish]Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示した。</a></dd>
+  リオリポジトリ ： <a href="https://github.com/siyo0715/Nuxt.js_practice6"　target="_blank">finish]Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示</a></dd>
  </dl>
  
  --------------------------------------------------------------------------
