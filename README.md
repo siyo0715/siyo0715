@@ -67,6 +67,15 @@
    <dd>・アプリケーションサイト ： <a href="http://hairskill1.com"　target="_blank">http://hairskill1.com</a></dd>
  </dl>
  
+ --------------------------------------------------------------------------
+ 
+ ##　✨Pickupリポジトリ
+ <dl>
+ <dd>
+  リオリポジトリ ： <a href="https://github.com/siyo0715/Nuxt.js_practice6"　target="_blank">finish]Nuxt.js API(JSONPlaceholder)を使ってユーザデータを10人分入手してTableとListに表示した。</a></dd>
+ </dl>
+ 
+ --------------------------------------------------------------------------
  
 <!--
 **siyo0715/siyo0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
