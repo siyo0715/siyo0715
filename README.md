@@ -75,7 +75,8 @@
    <dd>・アプリケーションサイト ： <a href="http://hairskill1.com"　target="_blank">http://hairskill1.com</a></dd>
  </dl>
  
- <img width="1435" alt="スクリーンショット 2021-11-28 18 46 10" src="https://user-images.githubusercontent.com/86521768/143763150-b45a8556-0148-4719-89d0-7376b1cdb569.png">
+<img width="1440" alt="スクリーンショット 2021-11-28 18 56 39" src="https://user-images.githubusercontent.com/86521768/143763418-a81536f2-99c7-471c-b9e8-6cd3583fcc7a.png">
+
 
  
  <img width="372" alt="スクリーンショット 2021-11-28 18 42 34" src="https://user-images.githubusercontent.com/86521768/143763067-ce972cf1-57ab-43b6-ae7a-33ace1be3b89.png">
