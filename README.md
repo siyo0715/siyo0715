@@ -84,7 +84,7 @@
  ## ✨Pickup
  
  
- 1.Nuxt.js_practice6:Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示
+ ①Nuxt.js_practice6:Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示
   
    リポジトリURL: https://github.com/siyo0715/Nuxt.js_practice6
  
