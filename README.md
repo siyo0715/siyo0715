@@ -84,7 +84,7 @@
  ## ✨Pickup
  
  
- <span style="color: red; ">　Nuxt.js_practice6:Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示</span>
+ Nuxt.js_practice6:Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示
   
    リポジトリURL: https://github.com/siyo0715/Nuxt.js_practice6
  
