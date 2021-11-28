@@ -85,6 +85,8 @@
  
  <img width="1432" alt="スクリーンショット 2021-11-28 17 21 00" src="https://user-images.githubusercontent.com/86521768/143735129-312bc8ec-7dee-463f-8085-7750b33977ce.png">
  
+ <img width="745" alt="スクリーンショット 2021-11-28 17 25 52" src="https://user-images.githubusercontent.com/86521768/143735209-210df5dd-fd53-48c6-99a1-b7e53e7e132b.png">
+ 
  --------------------------------------------------------------------------
  
 <!--
