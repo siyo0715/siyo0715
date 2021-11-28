@@ -75,8 +75,7 @@
    <dd>・アプリケーションサイト ： <a href="http://hairskill1.com"　target="_blank">http://hairskill1.com</a></dd>
  </dl>
  
-<img width="300"  height="150" alt="スクリーンショット 2021-11-28 18 56 39" src="https://user-images.githubusercontent.com/86521768/143763418-a81536f2-99c7-471c-b9e8-6cd3583fcc7a.png"><img width="150" height="150" alt="スクリーンショット 2021-11-28 19 09 01" src="https://user-images.githubusercontent.com/86521768/143763729-56f79449-4dbb-4d0f-98be-090a747d83b6.png"><img width="100" height="150" alt="スクリーンショット 2021-11-28 18 42 34" src="https://user-images.githubusercontent.com/86521768/143763067-ce972cf1-57ab-43b6-ae7a-33ace1be3b89.png"><img width="100" height="150" alt="スクリーンショット 2021-11-28 19 31 57" src="https://user-images.githubusercontent.com/86521768/143764290-bd046cc6-fc76-4a46-a610-af31d795c6ae.png">
- 
+<img width="300"  height="150" alt="スクリーンショット 2021-11-28 18 56 39" src="https://user-images.githubusercontent.com/86521768/143763418-a81536f2-99c7-471c-b9e8-6cd3583fcc7a.png"><img width="150" height="150" alt="スクリーンショット 2021-11-28 19 09 01" src="https://user-images.githubusercontent.com/86521768/143763729-56f79449-4dbb-4d0f-98be-090a747d83b6.png"><img width="100" height="150" alt="スクリーンショット 2021-11-28 18 42 34" src="https://user-images.githubusercontent.com/86521768/143763067-ce972cf1-57ab-43b6-ae7a-33ace1be3b89.png"><img img width="100" height="150" alt="スクリーンショット 2021-11-28 19 33 57" src="https://user-images.githubusercontent.com/86521768/143764357-9b363e42-46fd-4aee-a95e-ad5e1ea633de.png">
  --------------------------------------------------------------------------
  
  ## ✨Pickup
