@@ -87,9 +87,10 @@
  
  <img width="745" alt="スクリーンショット 2021-11-28 17 25 52" src="https://user-images.githubusercontent.com/86521768/143735265-c56e0586-1f6a-478e-9eb3-3ba2cd152df9.png">
  
+ <img width="1440" alt="スクリーンショット 2021-11-28 17 29 50" src="https://user-images.githubusercontent.com/86521768/143735339-3fe094a4-3ced-4c9c-a091-f4c17cc38022.png">
+ 
  <img width="1438" alt="スクリーンショット 2021-11-28 17 28 13" src="https://user-images.githubusercontent.com/86521768/143735309-87319073-02a4-40d3-9758-dc00b9d13f95.png">
  
- <img width="1440" alt="スクリーンショット 2021-11-28 17 29 50" src="https://user-images.githubusercontent.com/86521768/143735339-3fe094a4-3ced-4c9c-a091-f4c17cc38022.png">
 
  
  --------------------------------------------------------------------------
