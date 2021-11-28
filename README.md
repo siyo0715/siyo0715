@@ -83,6 +83,8 @@
  　Nuxt.js_practice6 ： <a href="https://github.com/siyo0715/Nuxt.js_practice6"　target="_blank">Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示</a></dd>
  </dl>
  
+ <img width="1432" alt="スクリーンショット 2021-11-28 17 21 00" src="https://user-images.githubusercontent.com/86521768/143735129-312bc8ec-7dee-463f-8085-7750b33977ce.png">
+ 
  --------------------------------------------------------------------------
  
 <!--
