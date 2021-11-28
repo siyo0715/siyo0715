@@ -85,7 +85,7 @@
  　Nuxt.js_practice6 ： <a href="https://github.com/siyo0715/Nuxt.js_practice6"　target="_blank">Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示</a></dd>
  </dl>
  
- <img width="240" height="110" alt="スクリーンショット 2021-11-28 17 21 00" src="https://user-images.githubusercontent.com/86521768/143735129-312bc8ec-7dee-463f-8085-7750b33977ce.png"><img width="240" height="110" alt="スクリーンショット 2021-11-28 17 28 13" src="https://user-images.githubusercontent.com/86521768/143735840-5bce20d5-e382-4791-b187-73560bcd31bd.png"><img width="240" height="110" alt="スクリーンショット 2021-11-28 17 29 50" src="https://user-images.githubusercontent.com/86521768/143735339-3fe094a4-3ced-4c9c-a091-f4c17cc38022.png"><img width="240" height="110" alt="スクリーンショット 2021-11-28 17 28 13" src="https://user-images.githubusercontent.com/86521768/143735309-87319073-02a4-40d3-9758-dc00b9d13f95.png">
+ <img width="200" height="100" alt="スクリーンショット 2021-11-28 17 21 00" src="https://user-images.githubusercontent.com/86521768/143735129-312bc8ec-7dee-463f-8085-7750b33977ce.png"><img width="200" height="100" alt="スクリーンショット 2021-11-28 17 28 13" src="https://user-images.githubusercontent.com/86521768/143735840-5bce20d5-e382-4791-b187-73560bcd31bd.png"><img width="200" height="100" alt="スクリーンショット 2021-11-28 17 29 50" src="https://user-images.githubusercontent.com/86521768/143735339-3fe094a4-3ced-4c9c-a091-f4c17cc38022.png"><img width="200" height="100" alt="スクリーンショット 2021-11-28 17 28 13" src="https://user-images.githubusercontent.com/86521768/143735309-87319073-02a4-40d3-9758-dc00b9d13f95.png">
  
 
  
