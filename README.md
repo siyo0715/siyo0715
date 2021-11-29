@@ -57,7 +57,7 @@
   <ul>
    <li>HTML</li>
    <li>CSS</li>
-   <li>Scss</li>
+   <li>SCSS</li>
    <li>Ruby</li>
    <li>Ruby on Rails</li>
    <li>AWS</li>
