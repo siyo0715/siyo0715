@@ -1,5 +1,5 @@
 
-[![](https://raw.githubusercontent.com/siyo0715/siyo0715/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=dracula)
 
 --------------------------------------------------------------------------
 
