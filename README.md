@@ -94,7 +94,7 @@
 
 リポジトリURL: https://github.com/siyo0715/Nuxt.js_practice9
 
-<img width="200" height="100" height="100" alt="スクリーンショット 2021-11-29 15 41 57" src="https://user-images.githubusercontent.com/86521768/143820578-54f6cd14-100a-4af9-8489-64b6afd333bc.png"> <img width="200" alt="スクリーンショット 2021-11-29 15 44 40" src="https://user-images.githubusercontent.com/86521768/143820843-c64654cb-3daf-4056-8765-927a2ee4736d.png">
+<img width="200" height="100" alt="スクリーンショット 2021-11-29 15 41 57" src="https://user-images.githubusercontent.com/86521768/143820578-54f6cd14-100a-4af9-8489-64b6afd333bc.png"> <img width="200" height="100" alt="スクリーンショット 2021-11-29 15 44 40" src="https://user-images.githubusercontent.com/86521768/143820843-c64654cb-3daf-4056-8765-927a2ee4736d.png">
 
 
  
