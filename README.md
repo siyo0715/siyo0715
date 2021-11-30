@@ -92,7 +92,7 @@
  
  ## ✨Pickup
  
- ①Nuxt.js_practice10:Nuxt.js practice10 TypeScriptを使ってHelloWorld,ページ遷移,非同期通信(Text変更),リストの追加と削除
+ ①Nuxt.js_practice10: TypeScriptを使ってHelloWorld,ページ遷移,非同期通信(Text変更),リストの追加と削除
  
  リポジトリURL: https://github.com/siyo0715/Nuxt.js-practice10
  
