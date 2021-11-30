@@ -96,6 +96,8 @@
  
  リポジトリURL: https://github.com/siyo0715/Nuxt.js-practice10
  
+ ↓動画です
+ 
  <img src="https://user-images.githubusercontent.com/86521768/144027760-5c6e0483-098e-4288-bf4c-fd520b53753b.gif" width="480">
  
  ②Nuxt.js_practice6:Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示
@@ -107,6 +109,8 @@
 ③Nuxt.js_practice9:Nuxt.js カウントアップ機能とカウントリセット機能の実装
 
 リポジトリURL: https://github.com/siyo0715/Nuxt.js_practice9
+
+↓動画です
 
 <img src="https://user-images.githubusercontent.com/86521768/144058848-b00effef-6cff-4f9b-b414-247b2f8f7fcb.gif" width="480">
 
