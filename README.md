@@ -96,7 +96,7 @@
  
  リポジトリURL: https://github.com/siyo0715/Nuxt.js-practice10
  
- https://user-images.githubusercontent.com/86521768/144021759-995b2794-9a51-4b2d-9a47-61f2a9322f1c.mov
+ <img src="https://user-images.githubusercontent.com/86521768/144027760-5c6e0483-098e-4288-bf4c-fd520b53753b.gif" width="480">
  
  ②Nuxt.js_practice6:Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示
   
