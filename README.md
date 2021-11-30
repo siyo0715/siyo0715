@@ -92,14 +92,17 @@
  
  ## ✨Pickup
  
+ ①Nuxt.js_practice10:Nuxt.js practice10 TypeScriptを使ってHelloWorld,ページ遷移,非同期通信(Text変更),リストの追加と削除
  
- ①Nuxt.js_practice6:Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示
+ リポジトリURL: https://github.com/siyo0715/Nuxt.js-practice10
+ 
+ ②Nuxt.js_practice6:Nuxt.js API(JSONPlaceholder)を使ってダミーのユーザデータを10人分入手してTableとListに表示
   
    リポジトリURL: https://github.com/siyo0715/Nuxt.js_practice6
  
  <img width="200" height="100" alt="スクリーンショット 2021-11-28 17 21 00" src="https://user-images.githubusercontent.com/86521768/143735129-312bc8ec-7dee-463f-8085-7750b33977ce.png"> <img width="200" height="100" alt="スクリーンショット 2021-11-28 17 28 13" src="https://user-images.githubusercontent.com/86521768/143735840-5bce20d5-e382-4791-b187-73560bcd31bd.png"> <img width="200" height="100" alt="スクリーンショット 2021-11-28 17 29 50" src="https://user-images.githubusercontent.com/86521768/143735339-3fe094a4-3ced-4c9c-a091-f4c17cc38022.png"> <img width="200" height="100" alt="スクリーンショット 2021-11-28 17 31 29" src="https://user-images.githubusercontent.com/86521768/143767756-618cc5a0-7768-4720-8701-8802858a37bc.png">
  
-②Nuxt.js_practice9:Nuxt.js カウントアップ機能とカウントリセット機能の実装
+③Nuxt.js_practice9:Nuxt.js カウントアップ機能とカウントリセット機能の実装
 
 リポジトリURL: https://github.com/siyo0715/Nuxt.js_practice9
 
