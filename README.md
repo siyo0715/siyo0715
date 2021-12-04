@@ -112,7 +112,7 @@
 
 ↓動画です
 
-<img src="https://user-images.githubusercontent.com/86521768/144058848-b00effef-6cff-4f9b-b414-247b2f8f7fcb.gif" width="480"><img width="480" height="220" alt="スクリーンショット 2021-12-04 23 11 40" src="https://user-images.githubusercontent.com/86521768/144712718-646041dc-9e12-4a16-b499-198cfe537422.png">
+<img src="https://user-images.githubusercontent.com/86521768/144058848-b00effef-6cff-4f9b-b414-247b2f8f7fcb.gif" width="480"><img width="480" height="220" alt="スクリーンショット 2021-12-04 23 11 40" src="https://user-images.githubusercontent.com/86521768/144712718-646041dc-9e12-4a16-b499-198cfe537422.png"><img width="480" height="220 alt="スクリーンショット 2021-12-04 23 23 45" src="https://user-images.githubusercontent.com/86521768/144713070-f12b666c-c7e4-4002-88cb-b3efc2daae48.png">
 
 <!-- <img width="200" height="100" alt="スクリーンショット 2021-11-29 15 41 57" src="https://user-images.githubusercontent.com/86521768/143820578-54f6cd14-100a-4af9-8489-64b6afd333bc.png"> <img width="200" height="100" alt="スクリーンショット 2021-11-29 15 44 40" src="https://user-images.githubusercontent.com/86521768/143820843-c64654cb-3daf-4056-8765-927a2ee4736d.png"> -->
 
