@@ -62,7 +62,6 @@
    <li>Ruby on Rails</li>
    <li>AWS</li>
    <li>JavaScript</li>
-   <li>jQuery</li>
    <li>Nuxt.js</li>
    <li>Vue.js</li>
   </ul>
