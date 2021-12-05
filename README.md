@@ -113,7 +113,7 @@
 
 <img src="https://user-images.githubusercontent.com/86521768/144058848-b00effef-6cff-4f9b-b414-247b2f8f7fcb.gif" width="380" height="220" >
 
-  <img width="420" height="220" alt="スクリーンショット 2021-12-04 23 11 40" src="https://user-images.githubusercontent.com/86521768/144712718-646041dc-9e12-4a16-b499-198cfe537422.png">  <img width="360" height="220" alt="スクリーンショット 2021-12-04 23 31 13" src="https://user-images.githubusercontent.com/86521768/144713261-6cd2db58-ab41-4fd8-96a9-ee41a56e6b5d.png">
+  <img width="420" height="220" alt="スクリーンショット 2021-12-04 23 11 40" src="https://user-images.githubusercontent.com/86521768/144712718-646041dc-9e12-4a16-b499-198cfe537422.png">  <img width="300" height="220" alt="スクリーンショット 2021-12-04 23 31 13" src="https://user-images.githubusercontent.com/86521768/144713261-6cd2db58-ab41-4fd8-96a9-ee41a56e6b5d.png">
 
 <!-- <img width="200" height="100" alt="スクリーンショット 2021-11-29 15 41 57" src="https://user-images.githubusercontent.com/86521768/143820578-54f6cd14-100a-4af9-8489-64b6afd333bc.png"> <img width="200" height="100" alt="スクリーンショット 2021-11-29 15 44 40" src="https://user-images.githubusercontent.com/86521768/143820843-c64654cb-3daf-4056-8765-927a2ee4736d.png"> -->
 
