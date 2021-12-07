@@ -112,8 +112,6 @@
 ↓動画です
 
 <img src="https://user-images.githubusercontent.com/86521768/144058848-b00effef-6cff-4f9b-b414-247b2f8f7fcb.gif" width="380" height="220" >
-
-  <img width="420" height="220" alt="スクリーンショット 2021-12-04 23 11 40" src="https://user-images.githubusercontent.com/86521768/144712718-646041dc-9e12-4a16-b499-198cfe537422.png">  <img width="300" height="220" alt="スクリーンショット 2021-12-04 23 31 13" src="https://user-images.githubusercontent.com/86521768/144713261-6cd2db58-ab41-4fd8-96a9-ee41a56e6b5d.png">
   
   
 ④Vue.js_practice2:TODOLIST作成
