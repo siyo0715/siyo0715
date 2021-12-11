@@ -94,7 +94,7 @@
 
 <dl>
   <dt>Aim Typing Master</dt>
-   <dd>・ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/aimtypengmaster"　target="_blank">https://github.com/siyo0715/aimtypengmaster</a></dd>
+   <dd>・ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/aimtypingmaster"　target="_blank">https://github.com/siyo0715/aimtypingmaster</a></dd>
    <dd>・アプリケーションサイト ： <a href="https://peaceful-bartik-a0e337.netlify.app/top"　target="_blank">https://peaceful-bartik-a0e337.netlify.app/top</a></dd>
    <dd>・使用技術　：　Ruby on Rils , HTML.CSS(SCSS) , JavaScript , jQuery</dd>
  </dl>
