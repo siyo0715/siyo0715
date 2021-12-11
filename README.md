@@ -152,7 +152,8 @@
   
 ④Vue.js_practice2:TODOLIST作成
 
-リポジトリURL:https://github.com/siyo0715/Vue.js_practice2  
+リポジトリURL:https://github.com/siyo0715/Vue.js_practice2
+アプリケーションサイト：https://siyo0715.github.io/Vue.js_practice2/
 
 ↓動画です
 
