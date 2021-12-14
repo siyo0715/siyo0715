@@ -125,7 +125,7 @@
    <dd>・使用技術　：　JavaScript , HTML ,Bootstrap</dd>
  </dl>
 
-<img width="200" alt="スクリーンショット 2021-12-08 17 06 45" src="https://user-images.githubusercontent.com/86521768/145171833-92be3300-b028-4411-8e44-c74dd2f8677e.png"> <img width="80" height="180" alt="スクリーンショット 2021-12-15 0 08 29" src="https://user-images.githubusercontent.com/86521768/146024737-41682777-8ab0-41d1-9d3a-b68473060bf1.png">
+<img width="200" alt="スクリーンショット 2021-12-08 17 06 45" src="https://user-images.githubusercontent.com/86521768/145171833-92be3300-b028-4411-8e44-c74dd2f8677e.png"> <img width="100" height="180" alt="スクリーンショット 2021-12-15 0 08 29" src="https://user-images.githubusercontent.com/86521768/146024737-41682777-8ab0-41d1-9d3a-b68473060bf1.png">
 
 5つ目
 <dl>
