@@ -131,7 +131,7 @@
 <dl>
   <dt>Task!!</dt>
    <dd>・ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/Task-"　target="_blank">https://github.com/siyo0715/Task-</a></dd>
-   <dd>・アプリケーションサイト ： <a href="https://nostalgic-meninsky-99083e.netlify.app"　target="_blank">https://nostalgic-meninsky-99083e.netlify.app</a></dd>
+   <dd>・アプリケーションサイト ： <a href="https://nostalgic-meninsky-99083e.netlify.app"　target="_blank">https://keen-lewin-41228a.netlify.app</a></dd>
    <dd>・⚠️投稿したタスクはページを読み込むと削除されます。
    <dd>・使用技術　：　JavaScript, HTML.CSS(SCSS)</dd>
  </dl>
