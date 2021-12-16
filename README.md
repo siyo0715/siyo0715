@@ -120,8 +120,8 @@
 
 <dl>
   <dt>クイズゲーム</dt>
-   <dd>・ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/QuizGame"　target="_blank">https://github.com/siyo0715/QuizGame</a></dd>
-   <dd>・アプリケーションサイト ： <a href="https://happy-curie-c080db.netlify.app"　target="_blank">https://happy-curie-c080db.netlify.app</a></dd>
+   <dd>・ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/QuizGame1"　target="_blank">https://github.com/siyo0715/QuizGame1</a></dd>
+   <dd>・アプリケーションサイト ： <a href="https://siyo0715.github.io/QuizGame1/QuizGame/"　target="_blank">https://siyo0715.github.io/QuizGame1/QuizGame/</a></dd>
    <dd>・使用技術　：　JavaScript , HTML ,Bootstrap</dd>
  </dl>
 
