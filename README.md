@@ -168,8 +168,10 @@
 
 
 ⑤クイズゲーム
-   ・オリポジトリURL ：https://github.com/siyo0715/QuizGame1
-   ・アプリケーションサイト ：https://siyo0715.github.io/QuizGame1/QuizGame/
+
+オリポジトリURL ：https://github.com/siyo0715/QuizGame1
+   
+アプリケーションサイト ：https://siyo0715.github.io/QuizGame1/QuizGame/
 
 
 <img width="200" alt="スクリーンショット 2021-12-08 17 06 45" src="https://user-images.githubusercontent.com/86521768/145171833-92be3300-b028-4411-8e44-c74dd2f8677e.png"> <img width="100" height="180" alt="スクリーンショット 2021-12-15 0 08 29" src="https://user-images.githubusercontent.com/86521768/146024737-41682777-8ab0-41d1-9d3a-b68473060bf1.png">
