@@ -166,14 +166,16 @@
 
 <!-- <img width="200" height="100" alt="スクリーンショット 2021-11-29 15 41 57" src="https://user-images.githubusercontent.com/86521768/143820578-54f6cd14-100a-4af9-8489-64b6afd333bc.png"> <img width="200" height="100" alt="スクリーンショット 2021-11-29 15 44 40" src="https://user-images.githubusercontent.com/86521768/143820843-c64654cb-3daf-4056-8765-927a2ee4736d.png"> -->
 
-<img width="200" alt="スクリーンショット 2021-12-08 17 06 45" src="https://user-images.githubusercontent.com/86521768/145171833-92be3300-b028-4411-8e44-c74dd2f8677e.png"> <img width="100" height="180" alt="スクリーンショット 2021-12-15 0 08 29" src="https://user-images.githubusercontent.com/86521768/146024737-41682777-8ab0-41d1-9d3a-b68473060bf1.png">
 
 ⑤クイズゲーム
-   ・オリポジトリURL ： <a href="https://github.com/siyo0715/QuizGame1"　target="_blank">https://github.com/siyo0715/QuizGame1</a></dd>
-   ・アプリケーションサイト ： <a href="https://siyo0715.github.io/QuizGame1/QuizGame/"　target="_blank">https://siyo0715.github.io/QuizGame1/QuizGame/</a></dd>
-   
+   ・オリポジトリURL ：https://github.com/siyo0715/QuizGame1
+   ・アプリケーションサイト ：https://siyo0715.github.io/QuizGame1/QuizGame/
 
- 
+
+<img width="200" alt="スクリーンショット 2021-12-08 17 06 45" src="https://user-images.githubusercontent.com/86521768/145171833-92be3300-b028-4411-8e44-c74dd2f8677e.png"> <img width="100" height="180" alt="スクリーンショット 2021-12-15 0 08 29" src="https://user-images.githubusercontent.com/86521768/146024737-41682777-8ab0-41d1-9d3a-b68473060bf1.png">
+
+
+
  --------------------------------------------------------------------------
  
  ## 📰Qiita
