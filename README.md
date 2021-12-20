@@ -176,6 +176,15 @@
 
 <img width="200" alt="スクリーンショット 2021-12-08 17 06 45" src="https://user-images.githubusercontent.com/86521768/145171833-92be3300-b028-4411-8e44-c74dd2f8677e.png"> <img width="100" height="180" alt="スクリーンショット 2021-12-15 0 08 29" src="https://user-images.githubusercontent.com/86521768/146024737-41682777-8ab0-41d1-9d3a-b68473060bf1.png">
 
+⑥タイピングゲームVue.js
+
+オリポジトリURL ：https://github.com/siyo0715/TypingGame2
+
+アプリケーションサイト :https://siyo0715.github.io/TypingGame2/
+
+<img width="280" alt="スクリーンショット 2021-12-20 17 02 58" src="https://user-images.githubusercontent.com/86521768/146733229-aa4dcf00-2068-4aa2-b2bd-1f7ce3ac6dde.png"> <img width="280" alt="スクリーンショット 2021-12-20 17 02 35" src="https://user-images.githubusercontent.com/86521768/146733366-4ab05cde-9456-4d81-ab73-45128196e282.png"> <img width="280" alt="スクリーンショット 2021-12-20 17 03 34" src="https://user-images.githubusercontent.com/86521768/146733427-c899bc52-1e5a-4d9a-9e4a-7cf243b47d7e.png">
+
+
 
 
  --------------------------------------------------------------------------
