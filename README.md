@@ -183,7 +183,7 @@ JavaScript
 
 Vue.js
 
-オリポジトリURL ：https://github.com/siyo0715/TypingGame2
+リポジトリURL ：https://github.com/siyo0715/TypingGame2
 
 アプリケーションサイト :https://siyo0715.github.io/TypingGame2/
 
