@@ -171,7 +171,7 @@
 
 JavaScript
 
-オリポジトリURL ：https://github.com/siyo0715/QuizGame1
+リポジトリURL ：https://github.com/siyo0715/QuizGame1
    
 アプリケーションサイト ：https://siyo0715.github.io/QuizGame1/QuizGame/
 
