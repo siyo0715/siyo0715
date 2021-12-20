@@ -184,7 +184,9 @@
 
 <img width="230" alt="スクリーンショット 2021-12-20 17 02 58" src="https://user-images.githubusercontent.com/86521768/146733229-aa4dcf00-2068-4aa2-b2bd-1f7ce3ac6dde.png"> <img width="230" alt="スクリーンショット 2021-12-20 17 02 35" src="https://user-images.githubusercontent.com/86521768/146733366-4ab05cde-9456-4d81-ab73-45128196e282.png"> <img width="230" alt="スクリーンショット 2021-12-20 17 03 34" src="https://user-images.githubusercontent.com/86521768/146733427-c899bc52-1e5a-4d9a-9e4a-7cf243b47d7e.png">
 
+(スマホでも入力可能です)
 
+<img width="100" height="150" alt="スクリーンショット 2021-12-20 17 19 34" src="https://user-images.githubusercontent.com/86521768/146735129-91857c6f-aaf1-47d4-98fd-328737d0d19e.png">
 
 
  --------------------------------------------------------------------------
