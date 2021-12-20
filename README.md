@@ -110,7 +110,7 @@
   <dt>How Maney</dt>
    <dd>・ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/How-Maney-"　target="_blank">https://github.com/siyo0715/How-Maney-</a></dd>
    <dd>・アプリケーションサイト ： <a href="https://angry-leavitt-41bf93.netlify.app/"　target="_blank">https://angry-leavitt-41bf93.netlify.app/</a></dd>
-   <dd>・使用技術　：　Vue.js(CLI) scss</dd>
+   <dd>・使用技術　：　Vue.js(CLI), scss</dd>
  </dl>
 
 <img width="200" alt="スクリーンショット 2021-12-14 18 13 32" src="https://user-images.githubusercontent.com/86521768/145968637-90713c26-7502-4669-808b-a77be1292663.png"> <img width="100" height="180" alt="スクリーンショット 2021-12-15 0 12 19" src="https://user-images.githubusercontent.com/86521768/146025285-03ed7f23-90b2-4f57-b8eb-fc9ba0f0c7d8.png">
