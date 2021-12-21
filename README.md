@@ -115,17 +115,6 @@
 
 <img width="200" alt="スクリーンショット 2021-12-14 18 13 32" src="https://user-images.githubusercontent.com/86521768/145968637-90713c26-7502-4669-808b-a77be1292663.png"> <img width="100" height="180" alt="スクリーンショット 2021-12-15 0 12 19" src="https://user-images.githubusercontent.com/86521768/146025285-03ed7f23-90b2-4f57-b8eb-fc9ba0f0c7d8.png">
 
-4つ目
-<dl>
-  <dt>Task!!</dt>
-   <dd>・ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/Task-"　target="_blank">https://github.com/siyo0715/Task-</a></dd>
-   <dd>・アプリケーションサイト ： <a href="https://nostalgic-meninsky-99083e.netlify.app"　target="_blank">https://keen-lewin-41228a.netlify.app</a></dd>
-   <dd>・⚠️投稿したタスクはページを読み込むと削除されます。
-   <dd>・使用技術　：　JavaScript, HTML.CSS(SCSS)</dd>
- </dl>
-
-<img width="200" alt="スクリーンショット 2021-12-09 20 01 28" src="https://user-images.githubusercontent.com/86521768/145384686-2117b4bf-9bbe-4554-977d-57c9e156a579.png">　<img width="100" height="180" alt="スクリーンショット 2021-12-15 0 03 05" src="https://user-images.githubusercontent.com/86521768/146023821-105f2e8e-beed-47d1-8674-2d90e1f5ae06.png">
-
 
  --------------------------------------------------------------------------
  
@@ -164,8 +153,6 @@
 
 <img src="https://user-images.githubusercontent.com/86521768/145044467-61c36820-7b6f-47c9-83d4-d564096e540d.gif" width="380" height="220">
 
-<!-- <img width="200" height="100" alt="スクリーンショット 2021-11-29 15 41 57" src="https://user-images.githubusercontent.com/86521768/143820578-54f6cd14-100a-4af9-8489-64b6afd333bc.png"> <img width="200" height="100" alt="スクリーンショット 2021-11-29 15 44 40" src="https://user-images.githubusercontent.com/86521768/143820843-c64654cb-3daf-4056-8765-927a2ee4736d.png"> -->
-
 
 ⑤クイズゲーム
 
@@ -194,6 +181,19 @@ Vue.js
 <img width="100" height="150" alt="スクリーンショット 2021-12-20 17 19 34" src="https://user-images.githubusercontent.com/86521768/146735129-91857c6f-aaf1-47d4-98fd-328737d0d19e.png">
 
 
+⑦Task!!</dt>
+
+
+・リポジトリ：https://github.com/siyo0715/Task-
+  
+・アプリケーションサイト：https://keen-lewin-41228a.netlify.app
+
+・使用技術　：　JavaScript, HTML.CSS(SCSS)</dd>
+  
+  
+  <img width="200" alt="スクリーンショット 2021-12-09 20 01 28" src="https://user-images.githubusercontent.com/86521768/145384686-2117b4bf-9bbe-4554-977d-57c9e156a579.png">　<img width="100" height="180" alt="スクリーンショット 2021-12-15 0 03 05" src="https://user-images.githubusercontent.com/86521768/146023821-105f2e8e-beed-47d1-8674-2d90e1f5ae06.png">
+
+
  --------------------------------------------------------------------------
  
  ## 📰Qiita
@@ -208,6 +208,7 @@ Vue.js
 
  
  Note: https://note.com/shiyo0175
+ 
  
 <!--
 **siyo0715/siyo0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
