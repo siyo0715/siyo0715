@@ -150,16 +150,9 @@ Vue.js
 
 <img width="100" height="150" alt="スクリーンショット 2021-12-20 17 19 34" src="https://user-images.githubusercontent.com/86521768/146735129-91857c6f-aaf1-47d4-98fd-328737d0d19e.png">
  
-④Nuxt.js_practice9:Nuxt.js カウントアップ機能とカウントリセット機能の実装
 
-リポジトリURL: https://github.com/siyo0715/Nuxt.js_practice9
-
-↓動画です
-
-<img src="https://user-images.githubusercontent.com/86521768/144058848-b00effef-6cff-4f9b-b414-247b2f8f7fcb.gif" width="380" height="220" >
   
-  
-⑤Vue.js_practice2:TODOLIST作成
+④Vue.js_practice2:TODOLIST作成
 
 リポジトリURL:https://github.com/siyo0715/Vue.js_practice2
 
@@ -170,7 +163,7 @@ Vue.js
 <img src="https://user-images.githubusercontent.com/86521768/145044467-61c36820-7b6f-47c9-83d4-d564096e540d.gif" width="380" height="220">
 
 
-⑥クイズゲーム
+⑤クイズゲーム
 
 JavaScript
 
@@ -183,7 +176,7 @@ JavaScript
 
 
 
-⑦Task!!</dt>
+⑥Task!!</dt>
 
 
 ・リポジトリ：https://github.com/siyo0715/Task-
