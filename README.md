@@ -134,38 +134,8 @@
  
  <img width="200" height="100" alt="スクリーンショット 2021-11-28 17 21 00" src="https://user-images.githubusercontent.com/86521768/143735129-312bc8ec-7dee-463f-8085-7750b33977ce.png"> <img width="200" height="100" alt="スクリーンショット 2021-11-28 17 28 13" src="https://user-images.githubusercontent.com/86521768/143735840-5bce20d5-e382-4791-b187-73560bcd31bd.png"> <img width="200" height="100" alt="スクリーンショット 2021-11-28 17 29 50" src="https://user-images.githubusercontent.com/86521768/143735339-3fe094a4-3ced-4c9c-a091-f4c17cc38022.png"> <img width="200" height="100" alt="スクリーンショット 2021-11-28 17 31 29" src="https://user-images.githubusercontent.com/86521768/143767756-618cc5a0-7768-4720-8701-8802858a37bc.png">
  
-③Nuxt.js_practice9:Nuxt.js カウントアップ機能とカウントリセット機能の実装
 
-リポジトリURL: https://github.com/siyo0715/Nuxt.js_practice9
-
-↓動画です
-
-<img src="https://user-images.githubusercontent.com/86521768/144058848-b00effef-6cff-4f9b-b414-247b2f8f7fcb.gif" width="380" height="220" >
-  
-  
-④Vue.js_practice2:TODOLIST作成
-
-リポジトリURL:https://github.com/siyo0715/Vue.js_practice2
-
-アプリケーションサイト：https://siyo0715.github.io/Vue.js_practice2/
-
-↓動画です
-
-<img src="https://user-images.githubusercontent.com/86521768/145044467-61c36820-7b6f-47c9-83d4-d564096e540d.gif" width="380" height="220">
-
-
-⑤クイズゲーム
-
-JavaScript
-
-リポジトリURL ：https://github.com/siyo0715/QuizGame1
-   
-アプリケーションサイト ：https://siyo0715.github.io/QuizGame1/QuizGame/
-
-
-<img width="200" alt="スクリーンショット 2021-12-08 17 06 45" src="https://user-images.githubusercontent.com/86521768/145171833-92be3300-b028-4411-8e44-c74dd2f8677e.png"> <img width="100" height="180" alt="スクリーンショット 2021-12-15 0 08 29" src="https://user-images.githubusercontent.com/86521768/146024737-41682777-8ab0-41d1-9d3a-b68473060bf1.png">
-
-⑥タイピングゲーム
+③タイピングゲーム
 
 
 Vue.js
@@ -179,6 +149,38 @@ Vue.js
 (スマホでも入力可能です)
 
 <img width="100" height="150" alt="スクリーンショット 2021-12-20 17 19 34" src="https://user-images.githubusercontent.com/86521768/146735129-91857c6f-aaf1-47d4-98fd-328737d0d19e.png">
+ 
+④Nuxt.js_practice9:Nuxt.js カウントアップ機能とカウントリセット機能の実装
+
+リポジトリURL: https://github.com/siyo0715/Nuxt.js_practice9
+
+↓動画です
+
+<img src="https://user-images.githubusercontent.com/86521768/144058848-b00effef-6cff-4f9b-b414-247b2f8f7fcb.gif" width="380" height="220" >
+  
+  
+⑤Vue.js_practice2:TODOLIST作成
+
+リポジトリURL:https://github.com/siyo0715/Vue.js_practice2
+
+アプリケーションサイト：https://siyo0715.github.io/Vue.js_practice2/
+
+↓動画です
+
+<img src="https://user-images.githubusercontent.com/86521768/145044467-61c36820-7b6f-47c9-83d4-d564096e540d.gif" width="380" height="220">
+
+
+⑥クイズゲーム
+
+JavaScript
+
+リポジトリURL ：https://github.com/siyo0715/QuizGame1
+   
+アプリケーションサイト ：https://siyo0715.github.io/QuizGame1/QuizGame/
+
+
+<img width="200" alt="スクリーンショット 2021-12-08 17 06 45" src="https://user-images.githubusercontent.com/86521768/145171833-92be3300-b028-4411-8e44-c74dd2f8677e.png"> <img width="100" height="180" alt="スクリーンショット 2021-12-15 0 08 29" src="https://user-images.githubusercontent.com/86521768/146024737-41682777-8ab0-41d1-9d3a-b68473060bf1.png">
+
 
 
 ⑦Task!!</dt>
