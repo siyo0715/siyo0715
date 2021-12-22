@@ -202,7 +202,7 @@ JavaScript
 ## 📖Note
 
  
- Note account: https://note.com/shiyo0175
+ Note Account: https://note.com/shiyo0175
  
  DMMWEBCAMP1ヶ月目の話
  
