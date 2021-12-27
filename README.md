@@ -163,7 +163,7 @@ Vue.js
 <img src="https://user-images.githubusercontent.com/86521768/145044467-61c36820-7b6f-47c9-83d4-d564096e540d.gif" width="380" height="220">
 
 
-⑤クイズゲーム
+⑤クイズゲーム 
 
 JavaScript
 
