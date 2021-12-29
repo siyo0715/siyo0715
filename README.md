@@ -176,18 +176,6 @@ JavaScript
 
 
 
-⑥Task!!</dt>
-
-
-・リポジトリ：https://github.com/siyo0715/Task-
-  
-・アプリケーションサイト：https://keen-lewin-41228a.netlify.app
-
-・使用技術　：　JavaScript, HTML.CSS(SCSS)</dd>
-  
-  
-  <img width="200" alt="スクリーンショット 2021-12-09 20 01 28" src="https://user-images.githubusercontent.com/86521768/145384686-2117b4bf-9bbe-4554-977d-57c9e156a579.png">　<img width="100" height="180" alt="スクリーンショット 2021-12-15 0 03 05" src="https://user-images.githubusercontent.com/86521768/146023821-105f2e8e-beed-47d1-8674-2d90e1f5ae06.png">
-
 
  --------------------------------------------------------------------------------------------
  
