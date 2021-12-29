@@ -183,6 +183,8 @@ JavaScript
  
  JavaScriptのDOMって？(初学者向け）: https://qiita.com/saraarai5454/items/4088ee78eb0e1d569249
  
+ JavaScriptのif構文とは（初学者向け）https://qiita.com/saraarai5454/items/a00fc592511bbca05060
+ 
  
  --------------------------------------------------------------------------------
  
