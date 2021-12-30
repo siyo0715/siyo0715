@@ -185,7 +185,7 @@ JavaScript
  
  JavaScriptのif構文とは（初学者向け）: https://qiita.com/saraarai5454/items/a00fc592511bbca05060
  
- JavaScriptのイベント処理について: https://qiita.com/saraarai5454/items/c06131ee97e6314735cb
+ JavaScriptのイベント処理について(初学者向け）: https://qiita.com/saraarai5454/items/c06131ee97e6314735cb
  
  
  --------------------------------------------------------------------------------
