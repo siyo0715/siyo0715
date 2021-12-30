@@ -189,6 +189,8 @@ JavaScript
  
  JavaScriptで時間を表示する(初学者向け): https://qiita.com/saraarai5454/items/b079157a590c5454a4e3
  
+ JavaScript while文とfor文について(初学者向け): https://qiita.com/saraarai5454/items/75e2edcb9ad7f17b32d4
+ 
  
  --------------------------------------------------------------------------------
  
