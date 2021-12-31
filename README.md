@@ -86,7 +86,7 @@
   <dt>HairSkill</dt>
    <dd>・ポートフォリオリポジトリ ： <a href="https://github.com/siyo0715/hairskill"　target="_blank">https://github.com/siyo0715/hairskill</a></dd>
    <dd>・アプリケーションサイト ： <a href="http://hairskill1.com"　target="_blank">http://hairskill1.com</a></dd>
-   <dd>・使用技術　：　Ruby on Rils , HTML.CSS(SCSS) , JavaScript , jQuery</dd>
+   <dd>・使用技術　：　Ruby on Rails , HTML.CSS(SCSS) , JavaScript , jQuery</dd>
  </dl>
  
 <img width="300"  height="150" alt="スクリーンショット 2021-11-28 19 43 09" src="https://user-images.githubusercontent.com/86521768/143764589-b49269f6-96db-4e41-86dd-68724bf14c30.png">　　<img width="300"  height="150" alt="スクリーンショット 2021-11-28 18 56 39" src="https://user-images.githubusercontent.com/86521768/143763418-a81536f2-99c7-471c-b9e8-6cd3583fcc7a.png">
