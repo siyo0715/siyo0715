@@ -191,6 +191,8 @@ JavaScript
  
  JavaScript while文とfor文について(初学者向け): https://qiita.com/saraarai5454/items/75e2edcb9ad7f17b32d4
  
+ Vue.jsのv-bindを使ってclass属性を書き換える: https://qiita.com/saraarai5454/items/bf0565a729b245a863a9
+ 
  
  --------------------------------------------------------------------------------
  
