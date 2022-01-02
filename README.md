@@ -193,6 +193,8 @@ JavaScript
  
  Vue.jsのv-bindを使ってclass属性を書き換える: https://qiita.com/saraarai5454/items/bf0565a729b245a863a9
  
+ Vue.jsのv-modelについて学ぼう: https://qiita.com/saraarai5454/items/11f22e7eb6af4a118443
+ 
  
  --------------------------------------------------------------------------------
  
