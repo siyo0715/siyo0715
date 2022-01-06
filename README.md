@@ -20,13 +20,11 @@
  <dl>
   <dt>1.出身・年齢・性別</dt>
    <dd>長野県・24歳・男性</dd>
-  <dt>2.現在</dt>
-   <dd>9月1日からDMM WEB CAMP卒業</dd>
-  <dt>3.希望職種</dt>
+  <dt>2.希望職種</dt>
    <dd>エンジニア</dd>
-  <dt>4.希望勤務地</dt>
+  <dt>3.希望勤務地</dt>
    <dd>東京都</dd>
-  <dt>5.連絡用メールアドレス</dt>
+  <dt>.連絡用メールアドレス</dt>
  <dd>Gmail ： <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"　target="_blank">hms0175km@gmail.com</a></dd>
 </dl>
 
