@@ -24,7 +24,7 @@
    <dd>エンジニア</dd>
   <dt>3.希望勤務地</dt>
    <dd>東京都</dd>
-  <dt>.連絡用メールアドレス</dt>
+  <dt>４.連絡用メールアドレス</dt>
  <dd>Gmail ： <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"　target="_blank">hms0175km@gmail.com</a></dd>
 </dl>
 
