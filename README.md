@@ -21,7 +21,7 @@
   <dt>1.出身・年齢・性別</dt>
    <dd>長野県・24歳・男性</dd>
   <dt>2.現在</dt>
-   <dd>9月1日からDMM WEB CAMP受講中</dd>
+   <dd>9月1日からDMM WEB CAMP卒業</dd>
   <dt>3.希望職種</dt>
    <dd>エンジニア</dd>
   <dt>4.希望勤務地</dt>
